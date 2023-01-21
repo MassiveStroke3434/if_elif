@@ -1,0 +1,15 @@
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\bin\Debug\net7.0\if_elif.exe
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\bin\Debug\net7.0\if_elif.deps.json
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\bin\Debug\net7.0\if_elif.runtimeconfig.json
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\bin\Debug\net7.0\if_elif.dll
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\bin\Debug\net7.0\if_elif.pdb
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\obj\Debug\net7.0\if_elif.csproj.AssemblyReference.cache
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\obj\Debug\net7.0\if_elif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\obj\Debug\net7.0\if_elif.AssemblyInfoInputs.cache
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\obj\Debug\net7.0\if_elif.AssemblyInfo.cs
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\obj\Debug\net7.0\if_elif.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\obj\Debug\net7.0\if_elif.dll
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\obj\Debug\net7.0\refint\if_elif.dll
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\obj\Debug\net7.0\if_elif.pdb
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\obj\Debug\net7.0\if_elif.genruntimeconfig.cache
+C:\Users\kemal\Desktop\programlar\vscode\if_elif\obj\Debug\net7.0\ref\if_elif.dll
